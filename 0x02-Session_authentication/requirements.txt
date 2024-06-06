@@ -1,0 +1,14 @@
+Flask==1.1.2
+Flask-Cors==3.0.8
+Jinja2==2.11.2
+requests==2.18.4
+pycodestyle==2.6.0
+Werkzeug>=0.15
+itsdangerous>=0.24
+click>=5.1
+MarkupSafe>=0.23
+certifi>=2017.4.17
+chardet<3.1.0,>=3.0.2
+idna<2.7,>=2.5
+urllib3==1.22
+
